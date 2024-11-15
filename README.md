@@ -114,19 +114,19 @@ public class MainActivity extends AppCompatActivity {
 ```
 # OUTPUT:
 # OnCreate Executed:
-![image](https://github.com/user-attachments/assets/808d2bfa-fdbd-4449-b873-180c5b290ffc)
+<img scr="https://github.com/user-attachments/assets/808d2bfa-fdbd-4449-b873-180c5b290ffc" width=200>
 
 # OnPause Executed:
-![image](https://github.com/user-attachments/assets/a6236fb9-56b5-4d01-90d4-fe87622d4921)
+<img scr="https://github.com/user-attachments/assets/a6236fb9-56b5-4d01-90d4-fe87622d4921" width=200>
 
 # OnResume Executed:
-![image](https://github.com/user-attachments/assets/f2dc7422-33af-430b-a2b0-4e97e9ddfd0f)
+<img scr="https://github.com/user-attachments/assets/f2dc7422-33af-430b-a2b0-4e97e9ddfd0f" width=200>
 
 # OnRestart Executed:
-![image](https://github.com/user-attachments/assets/d1403648-087e-41a8-8565-998765b4c936)
+<img scr="https://github.com/user-attachments/assets/d1403648-087e-41a8-8565-998765b4c936" width=200>
 
 # OnStart Executed:
-![image](https://github.com/user-attachments/assets/ae6d4cfc-f555-4210-a163-a990ff808920)
+<img scr="https://github.com/user-attachments/assets/ae6d4cfc-f555-4210-a163-a990ff808920" width=200>
 
 # RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
